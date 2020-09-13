@@ -64,4 +64,8 @@ public class List {
     public int getLength() {
         return length;
     }
+
+    public void nothing(){
+        System.out.println("I do nothing");
+    }
 }
